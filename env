@@ -1,0 +1,13 @@
+MONGOURL=mongodb+srv://akashsingh77312:12345@tnp-project.irlc3j1.mongodb.net/?retryWrites=true&w=majority&appName=tnp-project
+PORT=4000
+JWT_SECRET=asdfghjhgfdfgh
+CLOUDINARY_API_SECRET=CLOUDINARY_URL=cloudinary://295539137869495:ET0UdhGYJ0JB3r4ZOLweh3OOb6I@dojk2k1yv
+CLOUDINARY_API_KEY=295539137869495
+CLOUDINARY_CLOUD_NAME=dojk2k1yv
+EMAIL_PASS=msiz zgwc znfy ylmg
+EMAIL_USER=vishalkumar26dbg@gmail.com
+JWT_SECRET=sdvsvdfvd
+JWT_EXPIRES=5d
+FRONTEND_URL=http://localhost:5173
+COOKIE_EXPIRE=7
+OPENAI_API_KEY = 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
