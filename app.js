@@ -20,7 +20,7 @@ connectDb();
 
 app.use(
   cors({
-    origin: [process.env.FRONTEND_URL], // Frontend origin
+    origin: [process.env.FRONTEND_URL, process.env.FRONTEND_VERCEL_URL], // Frontend origin
     credentials: true,
   })
 );
